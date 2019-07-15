@@ -11,4 +11,6 @@ live-server
 
 ```
 
+sinon 无法Stub 类型module的方法
+
 # History
