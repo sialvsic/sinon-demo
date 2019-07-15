@@ -1,0 +1,20 @@
+{
+  "name": "sinon-demo",
+  "version": "1.0.0",
+  "description": "This repo used for learning the sinon.js and showcase the example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sialvsic/sinon-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sialvsic/sinon-demo/issues"
+  },
+  "homepage": "https://github.com/sialvsic/sinon-demo#readme"
+}
