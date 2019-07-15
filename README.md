@@ -6,4 +6,9 @@ Learning it from https://sinonjs.org/
 
 # Where to access
 
+```bash
+live-server
+
+```
+
 # History
